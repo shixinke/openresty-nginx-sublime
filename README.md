@@ -8,5 +8,5 @@ a sublime plugin for nginx-lua(openresty)
 ##使用说明
 1. 下载源码，并将源码解压一个文件夹下
 2. 进入sublime编辑器，点击"Preferences"->"Browse Packages.." (首选项->浏览程序包(B))
-3. 进入插件包目录，把解压后的文件夹放到该目录下
+3. 进入插件包目录，把解压后的src文件夹重命名为openresty放到该目录下
 4. 重启sublime编辑器即可
