@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[balancer_by_lua_file]]></content>
+    <tabTrigger>balancer_by_lua_file</tabTrigger>
+    <scope>source.nginx</scope>
+    <description> {path-to-lua-script-file}</description>
+</snippet>
