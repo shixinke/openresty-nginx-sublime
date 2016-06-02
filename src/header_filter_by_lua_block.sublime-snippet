@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[header_filter_by_lua_block]]></content>
+    <tabTrigger>header_filter_by_lua_block</tabTrigger>
+    <scope>source.nginx</scope>
+    <description> {lua-script-block}</description>
+</snippet>
