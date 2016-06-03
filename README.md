@@ -7,7 +7,7 @@ a sublime plugin for nginx-lua(openresty)
 
 ##主要功能
 
-1、openresty指令和openresty API 在sublime编辑器中的高亮显示以及自动完成
+1、openresty指令和openresty API 在sublime编辑器中的高亮显示以及自动填充
 
 效果：
 
