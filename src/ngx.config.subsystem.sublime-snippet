@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[subsystem = ngx.config.subsystem]]></content>
+<tabTrigger>ngx.config.subsystem</tabTrigger>
+<scope>source.lua</scope>
+<description> = ngx.config.subsystem</description>
+</snippet>

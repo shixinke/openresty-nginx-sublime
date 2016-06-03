@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.HTTP_CONTINUE]]></content>
+<tabTrigger>ngx.HTTP_CONTINUE</tabTrigger>
+<scope>source.lua</scope>
+<description> ngx.HTTP_CONTINUE</description>
+</snippet>

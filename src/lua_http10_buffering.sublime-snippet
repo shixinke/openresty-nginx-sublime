@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[lua_http10_buffering on|off]]></content>
+<tabTrigger>lua_http10_buffering</tabTrigger>
+<scope>source.nginx</scope>
+<description> on|off</description>
+</snippet>

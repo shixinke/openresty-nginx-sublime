@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.HTTP_PAYMENT_REQUIRED]]></content>
+<tabTrigger>ngx.HTTP_PAYMENT_REQUIRED</tabTrigger>
+<scope>source.lua</scope>
+<description> ngx.HTTP_PAYMENT_REQUIRED</description>
+</snippet>

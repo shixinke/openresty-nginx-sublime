@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.HTTP_NOT_ALLOWED]]></content>
+<tabTrigger>ngx.HTTP_NOT_ALLOWED</tabTrigger>
+<scope>source.lua</scope>
+<description> ngx.HTTP_NOT_ALLOWED</description>
+</snippet>

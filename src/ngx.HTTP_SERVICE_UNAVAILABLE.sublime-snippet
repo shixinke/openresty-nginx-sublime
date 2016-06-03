@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.HTTP_SERVICE_UNAVAILABLE]]></content>
+<tabTrigger>ngx.HTTP_SERVICE_UNAVAILABLE</tabTrigger>
+<scope>source.lua</scope>
+<description> ngx.HTTP_SERVICE_UNAVAILABLE</description>
+</snippet>

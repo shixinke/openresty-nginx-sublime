@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[table = ngx.decode_args(str, max_args?)]]></content>
+<tabTrigger>ngx.decode_args</tabTrigger>
+<scope>source.lua</scope>
+<description> (str, max_args?)</description>
+</snippet>

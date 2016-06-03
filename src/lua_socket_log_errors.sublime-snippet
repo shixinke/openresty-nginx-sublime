@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[lua_socket_log_errors on|off]]></content>
+<tabTrigger>lua_socket_log_errors</tabTrigger>
+<scope>source.nginx</scope>
+<description> on|off</description>
+</snippet>

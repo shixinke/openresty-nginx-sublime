@@ -1,6 +1,6 @@
 <snippet>
-    <content><![CDATA[access_by_lua_block]]></content>
-    <tabTrigger>access_by_lua_block</tabTrigger>
-    <scope>source.nginx</scope>
-    <description> {lua-script-str}</description>
+<content><![CDATA[access_by_lua_block { lua-script }]]></content>
+<tabTrigger>access_by_lua_block</tabTrigger>
+<scope>source.nginx</scope>
+<description> { lua-script }</description>
 </snippet>

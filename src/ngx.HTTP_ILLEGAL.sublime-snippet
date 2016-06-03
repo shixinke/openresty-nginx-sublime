@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.HTTP_ILLEGAL]]></content>
+<tabTrigger>ngx.HTTP_ILLEGAL</tabTrigger>
+<scope>source.lua</scope>
+<description> ngx.HTTP_ILLEGAL</description>
+</snippet>

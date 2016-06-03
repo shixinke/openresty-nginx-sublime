@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.HTTP_TOO_MANY_REQUESTS]]></content>
+<tabTrigger>ngx.HTTP_TOO_MANY_REQUESTS</tabTrigger>
+<scope>source.lua</scope>
+<description> ngx.HTTP_TOO_MANY_REQUESTS</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[lua_ssl_crl {file}]]></content>
+<tabTrigger>lua_ssl_crl</tabTrigger>
+<scope>source.nginx</scope>
+<description> file</description>
+</snippet>

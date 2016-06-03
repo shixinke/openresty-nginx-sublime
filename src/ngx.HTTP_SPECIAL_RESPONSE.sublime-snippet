@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.HTTP_SPECIAL_RESPONSE]]></content>
+<tabTrigger>ngx.HTTP_SPECIAL_RESPONSE</tabTrigger>
+<scope>source.lua</scope>
+<description> ngx.HTTP_SPECIAL_RESPONSE</description>
+</snippet>

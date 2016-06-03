@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[str = ngx.cookie_time(sec)]]></content>
+<tabTrigger>ngx.cookie_time</tabTrigger>
+<scope>source.lua</scope>
+<description> (sec)</description>
+</snippet>

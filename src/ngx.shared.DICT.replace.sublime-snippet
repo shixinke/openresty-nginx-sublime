@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[success, err, forcible = ngx.shared.DICT:replace(key, value, exptime?, flags?)]]></content>
+<tabTrigger>ngx.shared.DICT.replace</tabTrigger>
+<scope>source.lua</scope>
+<description> (key, value, exptime?, flags?)</description>
+</snippet>

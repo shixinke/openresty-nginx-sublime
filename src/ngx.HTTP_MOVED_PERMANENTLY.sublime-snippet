@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.HTTP_MOVED_PERMANENTLY]]></content>
+<tabTrigger>ngx.HTTP_MOVED_PERMANENTLY</tabTrigger>
+<scope>source.lua</scope>
+<description> ngx.HTTP_MOVED_PERMANENTLY</description>
+</snippet>

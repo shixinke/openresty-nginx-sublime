@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[exiting = ngx.worker.exiting()]]></content>
+<tabTrigger>ngx.worker.exiting</tabTrigger>
+<scope>source.lua</scope>
+<description> ()</description>
+</snippet>

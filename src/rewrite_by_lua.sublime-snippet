@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[rewrite_by_lua {lua-script-str}]]></content>
+<tabTrigger>rewrite_by_lua</tabTrigger>
+<scope>source.nginx</scope>
+<description> lua-script-str</description>
+</snippet>

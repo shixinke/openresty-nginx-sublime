@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.HTTP_NO_CONTENT]]></content>
+<tabTrigger>ngx.HTTP_NO_CONTENT</tabTrigger>
+<scope>source.lua</scope>
+<description> ngx.HTTP_NO_CONTENT</description>
+</snippet>

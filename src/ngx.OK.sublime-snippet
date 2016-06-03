@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.OK]]></content>
+<tabTrigger>ngx.OK</tabTrigger>
+<scope>source.lua</scope>
+<description> ngx.OK</description>
+</snippet>

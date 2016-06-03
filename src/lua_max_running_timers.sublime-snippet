@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[lua_max_running_timers {count}]]></content>
+<tabTrigger>lua_max_running_timers</tabTrigger>
+<scope>source.nginx</scope>
+<description> count</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[quoted_value = ngx.quote_sql_str(raw_value)]]></content>
+<tabTrigger>ngx.quote_sql_str</tabTrigger>
+<scope>source.lua</scope>
+<description> (raw_value)</description>
+</snippet>

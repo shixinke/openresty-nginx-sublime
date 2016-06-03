@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.HTTP_PUT]]></content>
+<tabTrigger>ngx.HTTP_PUT</tabTrigger>
+<scope>source.lua</scope>
+<description> ngx.HTTP_PUT</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[digest = ngx.sha1_bin(str)]]></content>
+<tabTrigger>ngx.sha1_bin</tabTrigger>
+<scope>source.lua</scope>
+<description> (str)</description>
+</snippet>

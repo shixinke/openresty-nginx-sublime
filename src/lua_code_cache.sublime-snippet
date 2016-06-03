@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[lua_code_cache on | off]]></content>
+<tabTrigger>lua_code_cache</tabTrigger>
+<scope>source.nginx</scope>
+<description> on | off</description>
+</snippet>

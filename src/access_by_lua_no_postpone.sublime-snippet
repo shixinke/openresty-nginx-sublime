@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[access_by_lua_no_postpone on|off]]></content>
+<tabTrigger>access_by_lua_no_postpone</tabTrigger>
+<scope>source.nginx</scope>
+<description> on|off</description>
+</snippet>

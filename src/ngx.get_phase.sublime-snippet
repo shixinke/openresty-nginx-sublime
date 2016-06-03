@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[str = ngx.get_phase()]]></content>
+<tabTrigger>ngx.get_phase</tabTrigger>
+<scope>source.lua</scope>
+<description> ()</description>
+</snippet>

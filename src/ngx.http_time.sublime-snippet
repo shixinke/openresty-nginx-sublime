@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[str = ngx.http_time(sec)]]></content>
+<tabTrigger>ngx.http_time</tabTrigger>
+<scope>source.lua</scope>
+<description> (sec)</description>
+</snippet>

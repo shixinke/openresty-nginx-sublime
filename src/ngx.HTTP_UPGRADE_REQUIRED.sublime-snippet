@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.HTTP_UPGRADE_REQUIRED]]></content>
+<tabTrigger>ngx.HTTP_UPGRADE_REQUIRED</tabTrigger>
+<scope>source.lua</scope>
+<description> ngx.HTTP_UPGRADE_REQUIRED</description>
+</snippet>

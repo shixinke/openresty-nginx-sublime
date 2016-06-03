@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ok, err = ngx.flush(wait?)]]></content>
+<tabTrigger>ngx.flush</tabTrigger>
+<scope>source.lua</scope>
+<description> (wait?)</description>
+</snippet>

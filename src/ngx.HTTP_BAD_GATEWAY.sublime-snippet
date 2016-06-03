@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.HTTP_BAD_GATEWAY]]></content>
+<tabTrigger>ngx.HTTP_BAD_GATEWAY</tabTrigger>
+<scope>source.lua</scope>
+<description> ngx.HTTP_BAD_GATEWAY</description>
+</snippet>

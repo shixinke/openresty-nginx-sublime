@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.AGAIN]]></content>
+<tabTrigger>ngx.AGAIN</tabTrigger>
+<scope>source.lua</scope>
+<description> ngx.AGAIN</description>
+</snippet>

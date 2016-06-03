@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[lua_check_client_abort on|off]]></content>
+<tabTrigger>lua_check_client_abort</tabTrigger>
+<scope>source.nginx</scope>
+<description> on|off</description>
+</snippet>

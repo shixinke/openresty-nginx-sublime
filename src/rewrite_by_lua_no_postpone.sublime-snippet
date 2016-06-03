@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[rewrite_by_lua_no_postpone on|off]]></content>
+<tabTrigger>rewrite_by_lua_no_postpone</tabTrigger>
+<scope>source.nginx</scope>
+<description> on|off</description>
+</snippet>

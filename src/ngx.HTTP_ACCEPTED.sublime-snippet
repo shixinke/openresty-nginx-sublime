@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.HTTP_ACCEPTED]]></content>
+<tabTrigger>ngx.HTTP_ACCEPTED</tabTrigger>
+<scope>source.lua</scope>
+<description> ngx.HTTP_ACCEPTED</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[newstr = ngx.escape_uri(str)]]></content>
+<tabTrigger>ngx.escape_uri</tabTrigger>
+<scope>source.lua</scope>
+<description> (str)</description>
+</snippet>

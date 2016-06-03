@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[str = ngx.encode_args(table)]]></content>
+<tabTrigger>ngx.encode_args</tabTrigger>
+<scope>source.lua</scope>
+<description> (table)</description>
+</snippet>

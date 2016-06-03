@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[lua_socket_connect_timeout {time}]]></content>
+<tabTrigger>lua_socket_connect_timeout</tabTrigger>
+<scope>source.nginx</scope>
+<description> time</description>
+</snippet>

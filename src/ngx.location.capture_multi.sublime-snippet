@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[res1, res2, ... = ngx.location.capture_multi({ {uri, options?}, {uri, options?}, ... })]]></content>
+<tabTrigger>ngx.location.capture_multi</tabTrigger>
+<scope>source.lua</scope>
+<description> ({ {uri, options?}, {uri, options?}, ... })</description>
+</snippet>

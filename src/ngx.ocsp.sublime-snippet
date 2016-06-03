@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[local ocsp = require "ngx.ocsp"]]></content>
+<tabTrigger>ngx.ocsp</tabTrigger>
+<scope>source.lua</scope>
+<description> ocsp = require "ngx.ocsp"</description>
+</snippet>

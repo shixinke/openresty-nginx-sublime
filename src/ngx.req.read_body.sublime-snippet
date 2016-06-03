@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.req.read_body()]]></content>
+<tabTrigger>ngx.req.read_body</tabTrigger>
+<scope>source.lua</scope>
+<description> ()</description>
+</snippet>

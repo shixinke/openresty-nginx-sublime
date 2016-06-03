@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.HTTP_CONFLICT]]></content>
+<tabTrigger>ngx.HTTP_CONFLICT</tabTrigger>
+<scope>source.lua</scope>
+<description> ngx.HTTP_CONFLICT</description>
+</snippet>

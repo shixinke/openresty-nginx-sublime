@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.NOTICE]]></content>
+<tabTrigger>ngx.NOTICE</tabTrigger>
+<scope>source.lua</scope>
+<description> ngx.NOTICE</description>
+</snippet>

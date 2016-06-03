@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[str = ngx.req.raw_header(no_request_line?)]]></content>
+<tabTrigger>ngx.req.raw_header</tabTrigger>
+<scope>source.lua</scope>
+<description> (no_request_line?)</description>
+</snippet>

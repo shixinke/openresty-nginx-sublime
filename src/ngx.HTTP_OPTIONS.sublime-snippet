@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.HTTP_OPTIONS]]></content>
+<tabTrigger>ngx.HTTP_OPTIONS</tabTrigger>
+<scope>source.lua</scope>
+<description> ngx.HTTP_OPTIONS</description>
+</snippet>

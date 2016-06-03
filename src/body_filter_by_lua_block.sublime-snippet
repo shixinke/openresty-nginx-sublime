@@ -1,6 +1,6 @@
 <snippet>
-    <content><![CDATA[body_filter_by_lua_block]]></content>
-    <tabTrigger>body_filter_by_lua_block</tabTrigger>
-    <scope>source.nginx</scope>
-    <description> {lua-script-block}</description>
+<content><![CDATA[body_filter_by_lua_block { lua-script-str }]]></content>
+<tabTrigger>body_filter_by_lua_block</tabTrigger>
+<scope>source.nginx</scope>
+<description> { lua-script-str }</description>
 </snippet>

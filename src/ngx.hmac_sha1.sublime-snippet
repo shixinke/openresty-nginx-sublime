@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[digest = ngx.hmac_sha1(secret_key, str)]]></content>
+<tabTrigger>ngx.hmac_sha1</tabTrigger>
+<scope>source.lua</scope>
+<description> (secret_key, str)</description>
+</snippet>

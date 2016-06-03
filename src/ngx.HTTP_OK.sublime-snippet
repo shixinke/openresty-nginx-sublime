@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.HTTP_OK]]></content>
+<tabTrigger>ngx.HTTP_OK</tabTrigger>
+<scope>source.lua</scope>
+<description> ngx.HTTP_OK</description>
+</snippet>

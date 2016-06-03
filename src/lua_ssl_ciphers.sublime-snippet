@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[lua_ssl_ciphers {ciphers}]]></content>
+<tabTrigger>lua_ssl_ciphers</tabTrigger>
+<scope>source.nginx</scope>
+<description> ciphers</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.HTTP_GATEWAY_TIMEOUT]]></content>
+<tabTrigger>ngx.HTTP_GATEWAY_TIMEOUT</tabTrigger>
+<scope>source.lua</scope>
+<description> ngx.HTTP_GATEWAY_TIMEOUT</description>
+</snippet>

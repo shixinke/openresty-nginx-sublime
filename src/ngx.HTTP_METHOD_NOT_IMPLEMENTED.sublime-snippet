@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.HTTP_METHOD_NOT_IMPLEMENTED]]></content>
+<tabTrigger>ngx.HTTP_METHOD_NOT_IMPLEMENTED</tabTrigger>
+<scope>source.lua</scope>
+<description> ngx.HTTP_METHOD_NOT_IMPLEMENTED</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[lua_need_request_body {on|off}]]></content>
+<tabTrigger>lua_need_request_body</tabTrigger>
+<scope>source.nginx</scope>
+<description> on|off</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.HTTP_DELETE]]></content>
+<tabTrigger>ngx.HTTP_DELETE</tabTrigger>
+<scope>source.lua</scope>
+<description> ngx.HTTP_DELETE</description>
+</snippet>

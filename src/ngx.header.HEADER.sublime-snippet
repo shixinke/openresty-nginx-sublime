@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.header.HEADER = VALUE]]></content>
+<tabTrigger>ngx.header.HEADER</tabTrigger>
+<scope>source.lua</scope>
+<description> = VALUE</description>
+</snippet>

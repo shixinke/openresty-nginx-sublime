@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ok, err = ngx.on_abort(callback)]]></content>
+<tabTrigger>ngx.on_abort</tabTrigger>
+<scope>source.lua</scope>
+<description> (callback)</description>
+</snippet>

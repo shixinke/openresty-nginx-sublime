@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.HTTP_HEAD]]></content>
+<tabTrigger>ngx.HTTP_HEAD</tabTrigger>
+<scope>source.lua</scope>
+<description> ngx.HTTP_HEAD</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[tcpsock, err = ngx.socket.connect(host, port)]]></content>
+<tabTrigger>ngx.socket.connect</tabTrigger>
+<scope>source.lua</scope>
+<description> (host, port)</description>
+</snippet>

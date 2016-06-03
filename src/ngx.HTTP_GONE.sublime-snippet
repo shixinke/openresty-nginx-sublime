@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.HTTP_GONE]]></content>
+<tabTrigger>ngx.HTTP_GONE</tabTrigger>
+<scope>source.lua</scope>
+<description> ngx.HTTP_GONE</description>
+</snippet>

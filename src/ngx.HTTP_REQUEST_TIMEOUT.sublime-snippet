@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.HTTP_REQUEST_TIMEOUT]]></content>
+<tabTrigger>ngx.HTTP_REQUEST_TIMEOUT</tabTrigger>
+<scope>source.lua</scope>
+<description> ngx.HTTP_REQUEST_TIMEOUT</description>
+</snippet>

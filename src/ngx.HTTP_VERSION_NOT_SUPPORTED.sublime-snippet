@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.HTTP_VERSION_NOT_SUPPORTED]]></content>
+<tabTrigger>ngx.HTTP_VERSION_NOT_SUPPORTED</tabTrigger>
+<scope>source.lua</scope>
+<description> ngx.HTTP_VERSION_NOT_SUPPORTED</description>
+</snippet>

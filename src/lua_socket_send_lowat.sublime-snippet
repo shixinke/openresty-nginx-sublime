@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[lua_socket_send_lowat {size}]]></content>
+<tabTrigger>lua_socket_send_lowat</tabTrigger>
+<scope>source.nginx</scope>
+<description> size</description>
+</snippet>

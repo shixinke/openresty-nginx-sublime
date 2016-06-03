@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[lua_transform_underscores_in_response_headers on|off]]></content>
+<tabTrigger>lua_transform_underscores_in_response_headers</tabTrigger>
+<scope>source.nginx</scope>
+<description> on|off</description>
+</snippet>

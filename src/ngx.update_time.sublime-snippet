@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.update_time()]]></content>
+<tabTrigger>ngx.update_time</tabTrigger>
+<scope>source.lua</scope>
+<description> ()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[lua_ssl_protocols [SSLv2] [SSLv3] [TLSv1] [TLSv1.1] [TLSv1.2]]]></content>
+<tabTrigger>lua_ssl_protocols</tabTrigger>
+<scope>source.nginx</scope>
+<description> [SSLv2] [SSLv3] [TLSv1] [TLSv1.1] [TLSv1.2]</description>
+</snippet>

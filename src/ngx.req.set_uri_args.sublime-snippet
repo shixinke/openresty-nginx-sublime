@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.req.set_uri_args(args)]]></content>
+<tabTrigger>ngx.req.set_uri_args</tabTrigger>
+<scope>source.lua</scope>
+<description> (args)</description>
+</snippet>

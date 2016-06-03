@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[val = ngx.arg[index]]]></content>
+<tabTrigger>ngx.arg</tabTrigger>
+<scope>source.lua</scope>
+<description> = ngx.arg[index]</description>
+</snippet>

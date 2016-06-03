@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.INFO]]></content>
+<tabTrigger>ngx.INFO</tabTrigger>
+<scope>source.lua</scope>
+<description> ngx.INFO</description>
+</snippet>

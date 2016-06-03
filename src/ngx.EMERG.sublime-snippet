@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.EMERG]]></content>
+<tabTrigger>ngx.EMERG</tabTrigger>
+<scope>source.lua</scope>
+<description> ngx.EMERG</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.redirect(uri, status?)]]></content>
+<tabTrigger>ngx.redirect</tabTrigger>
+<scope>source.lua</scope>
+<description> (uri, status?)</description>
+</snippet>

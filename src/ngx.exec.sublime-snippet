@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.exec(uri, args?)]]></content>
+<tabTrigger>ngx.exec</tabTrigger>
+<scope>source.lua</scope>
+<description> (uri, args?)</description>
+</snippet>

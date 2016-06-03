@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ok, err = ngx.send_headers()]]></content>
+<tabTrigger>ngx.send_headers</tabTrigger>
+<scope>source.lua</scope>
+<description> ()</description>
+</snippet>

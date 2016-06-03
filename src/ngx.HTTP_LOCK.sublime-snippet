@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.HTTP_LOCK]]></content>
+<tabTrigger>ngx.HTTP_LOCK</tabTrigger>
+<scope>source.lua</scope>
+<description> ngx.HTTP_LOCK</description>
+</snippet>

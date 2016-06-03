@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.HTTP_PATCH]]></content>
+<tabTrigger>ngx.HTTP_PATCH</tabTrigger>
+<scope>source.lua</scope>
+<description> ngx.HTTP_PATCH</description>
+</snippet>

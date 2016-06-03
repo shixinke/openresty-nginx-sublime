@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[count = ngx.worker.count()]]></content>
+<tabTrigger>ngx.worker.count</tabTrigger>
+<scope>source.lua</scope>
+<description> ()</description>
+</snippet>

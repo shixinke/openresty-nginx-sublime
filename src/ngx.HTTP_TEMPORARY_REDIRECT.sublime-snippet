@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.HTTP_TEMPORARY_REDIRECT]]></content>
+<tabTrigger>ngx.HTTP_TEMPORARY_REDIRECT</tabTrigger>
+<scope>source.lua</scope>
+<description> ngx.HTTP_TEMPORARY_REDIRECT</description>
+</snippet>

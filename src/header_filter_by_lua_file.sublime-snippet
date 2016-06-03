@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[header_filter_by_lua_file {path-to-lua-script-file}]]></content>
+<tabTrigger>header_filter_by_lua_file</tabTrigger>
+<scope>source.nginx</scope>
+<description> path-to-lua-script-file</description>
+</snippet>

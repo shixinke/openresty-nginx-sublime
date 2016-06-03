@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.req.append_body(data_chunk)]]></content>
+<tabTrigger>ngx.req.append_body</tabTrigger>
+<scope>source.lua</scope>
+<description> (data_chunk)</description>
+</snippet>

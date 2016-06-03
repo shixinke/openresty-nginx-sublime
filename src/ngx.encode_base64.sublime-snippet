@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[newstr = ngx.encode_base64(str, no_padding?)]]></content>
+<tabTrigger>ngx.encode_base64</tabTrigger>
+<scope>source.lua</scope>
+<description> (str, no_padding?)</description>
+</snippet>

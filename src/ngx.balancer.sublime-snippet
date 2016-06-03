@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[local balancer = require "ngx.balancer"]]></content>
+<tabTrigger>ngx.balancer</tabTrigger>
+<scope>source.lua</scope>
+<description> balancer = require "ngx.balancer"</description>
+</snippet>

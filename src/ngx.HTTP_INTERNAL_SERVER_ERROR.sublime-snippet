@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.HTTP_INTERNAL_SERVER_ERROR]]></content>
+<tabTrigger>ngx.HTTP_INTERNAL_SERVER_ERROR</tabTrigger>
+<scope>source.lua</scope>
+<description> ngx.HTTP_INTERNAL_SERVER_ERROR</description>
+</snippet>

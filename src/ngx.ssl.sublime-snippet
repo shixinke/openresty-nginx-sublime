@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[local ssl = require "ngx.ssl"]]></content>
+<tabTrigger>ngx.ssl</tabTrigger>
+<scope>source.lua</scope>
+<description> ssl = require "ngx.ssl"</description>
+</snippet>

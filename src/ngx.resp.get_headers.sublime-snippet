@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[headers = ngx.resp.get_headers(max_headers?, raw?)]]></content>
+<tabTrigger>ngx.resp.get_headers</tabTrigger>
+<scope>source.lua</scope>
+<description> (max_headers?, raw?)</description>
+</snippet>

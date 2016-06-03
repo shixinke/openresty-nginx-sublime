@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.req.clear_header(header_name)]]></content>
+<tabTrigger>ngx.req.clear_header</tabTrigger>
+<scope>source.lua</scope>
+<description> (header_name)</description>
+</snippet>

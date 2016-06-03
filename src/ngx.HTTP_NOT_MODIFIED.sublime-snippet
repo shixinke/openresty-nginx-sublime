@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.HTTP_NOT_MODIFIED]]></content>
+<tabTrigger>ngx.HTTP_NOT_MODIFIED</tabTrigger>
+<scope>source.lua</scope>
+<description> ngx.HTTP_NOT_MODIFIED</description>
+</snippet>

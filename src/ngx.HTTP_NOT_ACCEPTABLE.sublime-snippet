@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.HTTP_NOT_ACCEPTABLE]]></content>
+<tabTrigger>ngx.HTTP_NOT_ACCEPTABLE</tabTrigger>
+<scope>source.lua</scope>
+<description> ngx.HTTP_NOT_ACCEPTABLE</description>
+</snippet>

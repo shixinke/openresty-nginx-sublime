@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.log(log_level, ...)]]></content>
+<tabTrigger>ngx.log</tabTrigger>
+<scope>source.lua</scope>
+<description> (log_level, ...)</description>
+</snippet>

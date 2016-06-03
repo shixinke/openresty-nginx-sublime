@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.HTTP_MOVE]]></content>
+<tabTrigger>ngx.HTTP_MOVE</tabTrigger>
+<scope>source.lua</scope>
+<description> ngx.HTTP_MOVE</description>
+</snippet>

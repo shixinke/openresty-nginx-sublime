@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.HTTP_CLOSE]]></content>
+<tabTrigger>ngx.HTTP_CLOSE</tabTrigger>
+<scope>source.lua</scope>
+<description> ngx.HTTP_CLOSE</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[lua_use_default_type on | off]]></content>
+<tabTrigger>lua_use_default_type</tabTrigger>
+<scope>source.nginx</scope>
+<description> on | off</description>
+</snippet>

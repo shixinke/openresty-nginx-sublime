@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[intval = ngx.crc32_short(str)]]></content>
+<tabTrigger>ngx.crc32_short</tabTrigger>
+<scope>source.lua</scope>
+<description> (str)</description>
+</snippet>

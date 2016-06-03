@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[lua_package_path {lua-style-path-str}]]></content>
+<tabTrigger>lua_package_path</tabTrigger>
+<scope>source.nginx</scope>
+<description> lua-style-path-str</description>
+</snippet>

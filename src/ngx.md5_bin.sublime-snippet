@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[digest = ngx.md5_bin(str)]]></content>
+<tabTrigger>ngx.md5_bin</tabTrigger>
+<scope>source.lua</scope>
+<description> (str)</description>
+</snippet>

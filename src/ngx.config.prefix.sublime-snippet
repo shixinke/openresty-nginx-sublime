@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[prefix = ngx.config.prefix()]]></content>
+<tabTrigger>ngx.config.prefix</tabTrigger>
+<scope>source.lua</scope>
+<description> ()</description>
+</snippet>

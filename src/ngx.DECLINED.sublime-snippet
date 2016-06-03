@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.DECLINED]]></content>
+<tabTrigger>ngx.DECLINED</tabTrigger>
+<scope>source.lua</scope>
+<description> ngx.DECLINED</description>
+</snippet>

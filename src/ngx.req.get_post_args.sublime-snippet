@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[args, err = ngx.req.get_post_args(max_args?)]]></content>
+<tabTrigger>ngx.req.get_post_args</tabTrigger>
+<scope>source.lua</scope>
+<description> (max_args?)</description>
+</snippet>

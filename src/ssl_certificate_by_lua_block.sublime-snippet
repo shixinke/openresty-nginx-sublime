@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ssl_certificate_by_lua_block { lua-script }]]></content>
+<tabTrigger>ssl_certificate_by_lua_block</tabTrigger>
+<scope>source.nginx</scope>
+<description> { lua-script }</description>
+</snippet>

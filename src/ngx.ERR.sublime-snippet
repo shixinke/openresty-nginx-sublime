@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.ERR]]></content>
+<tabTrigger>ngx.ERR</tabTrigger>
+<scope>source.lua</scope>
+<description> ngx.ERR</description>
+</snippet>

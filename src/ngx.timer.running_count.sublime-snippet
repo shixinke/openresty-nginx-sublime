@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[count = ngx.timer.running_count()]]></content>
+<tabTrigger>ngx.timer.running_count</tabTrigger>
+<scope>source.lua</scope>
+<description> ()</description>
+</snippet>

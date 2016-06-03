@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.HTTP_MKCOL]]></content>
+<tabTrigger>ngx.HTTP_MKCOL</tabTrigger>
+<scope>source.lua</scope>
+<description> ngx.HTTP_MKCOL</description>
+</snippet>

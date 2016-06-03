@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.HTTP_POST]]></content>
+<tabTrigger>ngx.HTTP_POST</tabTrigger>
+<scope>source.lua</scope>
+<description> ngx.HTTP_POST</description>
+</snippet>

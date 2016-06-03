@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[from, to, err = ngx.re.find(subject, regex, options?, ctx?, nth?)]]></content>
+<tabTrigger>ngx.re.find</tabTrigger>
+<scope>source.lua</scope>
+<description> (subject, regex, options?, ctx?, nth?)</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.var.VAR_NAME]]></content>
+<tabTrigger>ngx.var.VARIABLE</tabTrigger>
+<scope>source.lua</scope>
+<description> </description>
+</snippet>

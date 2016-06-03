@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[success, err, forcible = ngx.shared.DICT:set(key, value, exptime?, flags?)]]></content>
+<tabTrigger>ngx.shared.DICT.set</tabTrigger>
+<scope>source.lua</scope>
+<description> (key, value, exptime?, flags?)</description>
+</snippet>

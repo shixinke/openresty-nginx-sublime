@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[file_name = ngx.req.get_body_file()]]></content>
+<tabTrigger>ngx.req.get_body_file</tabTrigger>
+<scope>source.lua</scope>
+<description> ()</description>
+</snippet>

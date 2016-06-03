@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.HTTP_PROPFIND]]></content>
+<tabTrigger>ngx.HTTP_PROPFIND</tabTrigger>
+<scope>source.lua</scope>
+<description> ngx.HTTP_PROPFIND</description>
+</snippet>

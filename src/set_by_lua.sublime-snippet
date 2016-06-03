@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[set_by_lua $res {lua-script-str} [$arg1 $arg2 ...]]]></content>
+<tabTrigger>set_by_lua</tabTrigger>
+<scope>source.nginx</scope>
+<description> lua-script-str</description>
+</snippet>

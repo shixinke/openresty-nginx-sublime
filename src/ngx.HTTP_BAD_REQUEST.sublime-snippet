@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.HTTP_BAD_REQUEST]]></content>
+<tabTrigger>ngx.HTTP_BAD_REQUEST</tabTrigger>
+<scope>source.lua</scope>
+<description> ngx.HTTP_BAD_REQUEST</description>
+</snippet>

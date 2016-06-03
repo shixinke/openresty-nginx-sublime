@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[flushed = ngx.shared.DICT:flush_expired(max_count?)]]></content>
+<tabTrigger>ngx.shared.DICT.flush_expired</tabTrigger>
+<scope>source.lua</scope>
+<description> (max_count?)</description>
+</snippet>

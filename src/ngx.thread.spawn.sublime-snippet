@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[co = ngx.thread.spawn(func, arg1, arg2, ...)]]></content>
+<tabTrigger>ngx.thread.spawn</tabTrigger>
+<scope>source.lua</scope>
+<description> (func, arg1, arg2, ...)</description>
+</snippet>

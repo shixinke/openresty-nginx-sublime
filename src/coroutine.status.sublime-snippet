@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[status = coroutine.status(co)]]></content>
+<tabTrigger>coroutine.status</tabTrigger>
+<scope>source.lua</scope>
+<description> (co)</description>
+</snippet>

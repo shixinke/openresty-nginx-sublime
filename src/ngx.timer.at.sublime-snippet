@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ok, err = ngx.timer.at(delay, callback, user_arg1, user_arg2, ...)]]></content>
+<tabTrigger>ngx.timer.at</tabTrigger>
+<scope>source.lua</scope>
+<description> (delay, callback, user_arg1, user_arg2, ...)</description>
+</snippet>

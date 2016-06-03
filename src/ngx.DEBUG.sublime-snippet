@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.DEBUG]]></content>
+<tabTrigger>ngx.DEBUG</tabTrigger>
+<scope>source.lua</scope>
+<description> ngx.DEBUG</description>
+</snippet>

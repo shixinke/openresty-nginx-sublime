@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[value = ngx.is_subrequest]]></content>
+<tabTrigger>ngx.is_subrequest</tabTrigger>
+<scope>source.lua</scope>
+<description> = ngx.is_subrequest</description>
+</snippet>

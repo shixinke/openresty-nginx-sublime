@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.exit(status)]]></content>
+<tabTrigger>ngx.exit</tabTrigger>
+<scope>source.lua</scope>
+<description> (status)</description>
+</snippet>

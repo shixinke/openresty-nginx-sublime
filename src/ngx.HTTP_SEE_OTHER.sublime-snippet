@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.HTTP_SEE_OTHER]]></content>
+<tabTrigger>ngx.HTTP_SEE_OTHER</tabTrigger>
+<scope>source.lua</scope>
+<description> ngx.HTTP_SEE_OTHER</description>
+</snippet>

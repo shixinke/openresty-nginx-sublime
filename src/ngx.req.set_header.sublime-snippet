@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ngx.req.set_header(header_name, header_value)]]></content>
+<tabTrigger>ngx.req.set_header</tabTrigger>
+<scope>source.lua</scope>
+<description> (header_name, header_value)</description>
+</snippet>

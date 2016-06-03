@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[keys = ngx.shared.DICT:get_keys(max_count?)]]></content>
+<tabTrigger>ngx.shared.DICT.get_keys</tabTrigger>
+<scope>source.lua</scope>
+<description> (max_count?)</description>
+</snippet>
