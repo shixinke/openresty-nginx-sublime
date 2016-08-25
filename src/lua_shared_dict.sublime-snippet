@@ -2,5 +2,5 @@
 <content><![CDATA[lua_shared_dict {name} <size>]]></content>
 <tabTrigger>lua_shared_dict</tabTrigger>
 <scope>source.nginx</scope>
-<description> name> <size</description>
+<description> name size</description>
 </snippet>
